@@ -1,7 +1,7 @@
 # {nombre del proyecto}
 
 **Descripción:**
-{breve explicación del proyecto}
+{nombre del proyecto} es una aplicacion web que busca otorgarle al futbolista amateur las herramientas necesarias para organizar torneos personalizados de futbol o el deporte de su preferencia. Podrá llevar registro de los equipos y jugadores anotados, tabla de posiciones, goleadores/anotadores y mucho más.
 
 Integrantes:
 
@@ -14,12 +14,12 @@ Proyecto institucional **E.E.S.T Nº4 de Berazategui**.
 
 ## Elevator's Pitch
 
-- Para {cliente objetivo}
-- Quienes {necesidad y/o oportunidad}
-- El {nombre del proyecto} es un {categoría del producto}
-- Que {beneficio clave, razón para comprarlo}
-- Diferente a {otras soluciones existentes, por ejemplo...}
-- Nuestro proyecto {declaración de la diferencia}.
+- Para la comunidad futbolera/deportista
+- Quienes necesitan organizar torneos de manera rápida, clara y confiable, sin complicaciones administrativas ni errores en la gestión
+- El {nombre del proyecto} es una aplicación web de gestión de torneos deportivos
+- Que te dará el poder de organizar tus torneos de forma segura y eficaz
+- Diferente a Copa Facil, Leverize, Competize, etc.
+- Nuestro proyecto ofrece una experiencia más simple, intuitiva y personalizable, enfocada en usuarios comunes y no solo en organizadores profesionales, permitiendo crear, gestionar y compartir torneos de forma accesible desde cualquier dispositivo.
 
 ## Requisitos
 
